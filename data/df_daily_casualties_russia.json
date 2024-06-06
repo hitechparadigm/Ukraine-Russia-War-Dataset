@@ -1,3 +1,6 @@
+{"date":"06.06.2024","air_defense":1,"aircraft":0,"artillery_systems":48,"bbm":40,"cruise_missiles":0,"helicopters":0,"rszv":3,"ships":0,"special_equipment":7,"submarines":0,"tanks":22,"uavs":41,"vehicles":63,"personnel":1300}
+{"date":"05.06.2024","air_defense":3,"aircraft":0,"artillery_systems":40,"bbm":16,"cruise_missiles":0,"helicopters":0,"rszv":0,"ships":0,"special_equipment":12,"submarines":0,"tanks":12,"uavs":39,"vehicles":69,"personnel":1280}
+{"date":"04.06.2024","air_defense":3,"aircraft":0,"artillery_systems":65,"bbm":18,"cruise_missiles":-2268,"helicopters":0,"rszv":2,"ships":0,"special_equipment":12,"submarines":0,"tanks":15,"uavs":27,"vehicles":69,"personnel":1290}
 {"date":"03.06.2024","air_defense":3,"aircraft":0,"artillery_systems":47,"bbm":22,"cruise_missiles":0,"helicopters":0,"rszv":1,"ships":0,"special_equipment":4,"submarines":0,"tanks":14,"uavs":40,"vehicles":67,"personnel":1270}
 {"date":"02.06.2024","air_defense":6,"aircraft":0,"artillery_systems":49,"bbm":33,"cruise_missiles":38,"helicopters":0,"rszv":1,"ships":0,"special_equipment":14,"submarines":0,"tanks":25,"uavs":82,"vehicles":86,"personnel":1080}
 {"date":"01.06.2024","air_defense":0,"aircraft":0,"artillery_systems":44,"bbm":12,"cruise_missiles":1,"helicopters":0,"rszv":0,"ships":0,"special_equipment":17,"submarines":0,"tanks":12,"uavs":30,"vehicles":101,"personnel":1130}
@@ -827,5 +830,5 @@
 {"date":"28.02.2022","air_defense":0,"aircraft":2,"artillery_systems":74,"bbm":110,"cruise_missiles":0,"helicopters":3,"rszv":0,"ships":0,"special_equipment":0,"submarines":0,"tanks":191,"uavs":1,"vehicles":0,"personnel":800}
 {"date":"27.02.2022","air_defense":0,"aircraft":11,"artillery_systems":0,"bbm":706,"cruise_missiles":0,"helicopters":8,"rszv":0,"ships":0,"special_equipment":0,"submarines":0,"tanks":0,"uavs":2,"vehicles":0,"personnel":1500}
 {"date":"26.02.2022","air_defense":0,"aircraft":6,"artillery_systems":0,"bbm":-516,"cruise_missiles":0,"helicopters":11,"rszv":0,"ships":0,"special_equipment":0,"submarines":0,"tanks":0,"uavs":0,"vehicles":0,"personnel":200}
-{"date":"25.02.2022","air_defense":0,"aircraft":0,"artillery_systems":0,"bbm":0,"cruise_missiles":0,"helicopters":0,"rszv":0,"ships":0,"special_equipment":0,"submarines":0,"tanks":0,"uavs":0,"vehicles":0,"personnel":2000}
+{"date":"25.02.2022","air_defense":0,"aircraft":0,"artillery_systems":0,"bbm":0,"cruise_missiles":0,"helicopters":0,"rszv":0,"ships":0,"special_equipment":0,"submarines":0,"tanks":0,"uavs":0,"vehicles":0,"personnel":0}
 {"date":"24.02.2022","air_defense":0,"aircraft":7,"artillery_systems":0,"bbm":130,"cruise_missiles":0,"helicopters":6,"rszv":0,"ships":0,"special_equipment":0,"submarines":0,"tanks":0,"uavs":0,"vehicles":0,"personnel":800}
